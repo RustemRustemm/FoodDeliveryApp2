@@ -26,11 +26,13 @@ class ViewController: UIViewController {
         ])
         
 //        label.font = .systemFont(ofSize: 40, weight: UIFont.Weight(rawValue: 20))
-        label.textColor = .white
+//        label.textColor = .white
         
         label.font = UIFont.Roboto.thin.size(of: 40)
+        label.textColor = AppColors.accentOrange
         
-        view.backgroundColor = .red
+//        view.backgroundColor = .red
+        view.backgroundColor = AppColors.background
     }
 
 
