@@ -38,6 +38,7 @@
 		4AFDB7242D0A28A500A8DCEE /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AFDB7232D0A28A500A8DCEE /* TabBarController.swift */; };
 		4AFDB72C2D0DEE6700A8DCEE /* OnboardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AFDB72B2D0DEE6700A8DCEE /* OnboardingViewController.swift */; };
 		4AFDB72F2D0DF4EC00A8DCEE /* OnboardingViewPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AFDB72E2D0DF4EC00A8DCEE /* OnboardingViewPresenter.swift */; };
+		4AFDB7352D0E1D3700A8DCEE /* OnboardingPartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AFDB7342D0E1D3700A8DCEE /* OnboardingPartViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -74,6 +75,7 @@
 		4AFDB7232D0A28A500A8DCEE /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		4AFDB72B2D0DEE6700A8DCEE /* OnboardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewController.swift; sourceTree = "<group>"; };
 		4AFDB72E2D0DF4EC00A8DCEE /* OnboardingViewPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewPresenter.swift; sourceTree = "<group>"; };
+		4AFDB7342D0E1D3700A8DCEE /* OnboardingPartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingPartViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,6 +212,7 @@
 			children = (
 				4AFDB72B2D0DEE6700A8DCEE /* OnboardingViewController.swift */,
 				4AFDB72E2D0DF4EC00A8DCEE /* OnboardingViewPresenter.swift */,
+				4AFDB7342D0E1D3700A8DCEE /* OnboardingPartViewController.swift */,
 			);
 			path = Onboarding;
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 				4AFDB71E2D0A27D900A8DCEE /* ListCoordinator.swift in Sources */,
 				4AFDB7182D0A272200A8DCEE /* HomeCoordinator.swift in Sources */,
 				4AFDB7242D0A28A500A8DCEE /* TabBarController.swift in Sources */,
+				4AFDB7352D0E1D3700A8DCEE /* OnboardingPartViewController.swift in Sources */,
 				4A4EF0B42D03A67D0025D077 /* UIColor+Extension.swift in Sources */,
 				4AFDB72F2D0DF4EC00A8DCEE /* OnboardingViewPresenter.swift in Sources */,
 				4AFDB70F2D0A01E100A8DCEE /* Coordinator.swift in Sources */,
